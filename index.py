@@ -5,7 +5,7 @@ from urllib.error import HTTPError, URLError
 import json
 import os
 
-UPSTREAM = "https://infoooooo-v6v5.vercel.app/accinfo"
+UPSTREAM = "https://infobotbysilentgmr.vercel.app"
 
 API_KEY = os.environ.get("API_KEY", "Nilesh")
 
